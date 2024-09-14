@@ -18,7 +18,8 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![Screenshot 2024-09-13 230323](https://github.com/user-attachments/assets/8be81085-7b5a-4a7c-bc11-beaefce592e4)
+
 
 ## Reflection
 
@@ -32,4 +33,4 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-  Somethng I would want to do differently next time wa try to implemnt a if statement or while loop into the code next time.
+  Something I would want to do differently next time was try to implement a if statement or while loop into the code next time.
