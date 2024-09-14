@@ -24,12 +24,12 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - Write your response here...
+   My project is the character Hollow Knight from the game Hollow Knight.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+  Two things I am proud of was being able to make it look good and being able to learn how to use the painter class to create my own drawings.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+  Somethng I would want to do differently next time wa try to implemnt a if statement or while loop into the code next time.
